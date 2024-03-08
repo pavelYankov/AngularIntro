@@ -1,6 +1,6 @@
 # AngularIntro
 
-This project is aimed to be a skeleton used for introductory tasks regarding angular aimed towards enterprise applications.
+This project is aimed to be a skeleton used for introductory tasks regarding applications.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
