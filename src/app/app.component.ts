@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLinksEnum } from './router-links.enum';
 
 @Component({
     selector: 'intro-app-root',
     templateUrl: './app.component.html',
-    styleUrls: ['./app.component.scss'],
 })
-export class IntroAppComponent {
-    public title = 'angular-intro';
+export class AppComponent {
+    public routerLinks = RouterLinksEnum;
 }
